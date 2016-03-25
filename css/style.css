@@ -1,0 +1,47 @@
+.navbar{
+	border-radius: 0px;
+}
+
+.navbar-site {
+    background-color: #23BAB5;
+    border-color: #0FA6A1;
+}
+
+.navbar-site .navbar-brand,
+.navbar-site .navbar-brand:hover,
+.navbar-site .navbar-brand:focus {
+    color: #FFF;
+}
+
+.navbar-site .navbar-nav > li > a {
+    color: #FFF;
+}
+
+.navbar-site .navbar-nav > li > a:hover,
+.navbar-site .navbar-nav > li > a:focus {
+    background-color: #0FA6A1;
+}
+
+.navbar-site .navbar-nav > .active > a,
+.navbar-site .navbar-nav > .active > a:hover,
+.navbar-site .navbar-nav > .active > a:focus {
+    color: #FFF;
+    background-color: #0FA6A1;
+}
+
+.navbar-site .navbar-text {
+    color: #FFF;
+}
+
+.navbar-site .navbar-toggle {
+    border-color: #0FA6A1;
+}
+
+.navbar-site .navbar-toggle:hover,
+.navbar-site .navbar-toggle:focus {
+    background-color: #0FA6A1;
+}
+
+.navbar-site .navbar-toggle .icon-bar {
+    background-color: #FFF;
+}
